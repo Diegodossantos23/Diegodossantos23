@@ -1,9 +1,7 @@
 [![ProfileBanner](https://drive.google.com/file/d/1W3WwEgbC-wWsNk5JHNOQAHUO0-Ih5USD/view?usp=sharing](https://Davekibh.github.io)
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade da Estácio, e cursando o intensivo de desenvolvimento Web Full-Stack da Labenu. Sou dedicado, flexivel, autodidata e adoro trabalhar em equipe.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
