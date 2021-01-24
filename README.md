@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+x-special/nautilus-clipboard
+copy
+file:///home/diego/Downloads/WhatsApp%20Image%202021-01-23%20at%2020.59.28.jpeg
+
 
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">Full Stack Web Developer</h3>
