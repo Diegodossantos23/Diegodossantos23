@@ -1,11 +1,11 @@
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hi, I'm Diego 👋</b></h1>
+  <h1 align="center"><b>Hello World, I'm Diego 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Hello World!"</b></h4>
+  <h4 align="center"><b>"I'm Front-End Developer"</b></h4>
 </p>
 
 ### About me 🧑:
