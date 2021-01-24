@@ -10,7 +10,6 @@
 
 
 ### About me 🧑:
-
 Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade da Estácio, e cursando o intensivo de desenvolvimento Web Full-Stack da Labenu. Sou dedicado, flexivel, autodidata e adoro trabalhar em equipe.
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
