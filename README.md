@@ -73,3 +73,19 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 </details>
 
 ---
+
+<br>
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+<!--[website]: -->
+[twitter]: https://twitter.com/sumanth_98?s=09
+<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
+[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
+[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
+-----
+Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
+
+Last Edited on: 12/12/2020
