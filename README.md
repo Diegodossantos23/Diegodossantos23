@@ -51,6 +51,7 @@ Languages and Tools🛠:
 <a href="https://www.linkedin.com/in/diego-dos-santos-rosa-b9180b176/">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/whatsapp.png" />
 </a>
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 <br/>
 
