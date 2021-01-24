@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"I'm Front-End Developer"</b></h4>
+  <h4 align="center"><b>"Front-End Developer"</b></h4>
 </p>
 
 
@@ -22,7 +22,7 @@ Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cu
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Fullstack Web development.
 - 😄 Pronouns: He/Him
-- 📝 Resume: [Let's get in touch!][Linkedin]
+- 📝 Resume
 - 📫 How to reach me **diegodossantos900@gmail.com**
 
 
