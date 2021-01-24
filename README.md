@@ -1,6 +1,7 @@
 
 
 ### About me 🧑:
+
 Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade da Estácio, e cursando o intensivo de desenvolvimento Web Full-Stack da Labenu. Sou dedicado, flexivel, autodidata e adoro trabalhar em equipe.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
