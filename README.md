@@ -8,14 +8,6 @@
   <h4 align="center"><b>"I'm Front-End Developer"</b></h4>
 </p>
 
-<p align="center">
-<br>
-<a href="https://www.facebook.com/profile.php?id=100037635695244"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/diegodossantosbjj/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/diego-dos-santos-rosa-b9180b176/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://mail.google.com/mail/u/0/?tab=wm&ogbl&pli=1#inbox?compose=new"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
 
 ### About me 🧑:
 
@@ -55,20 +47,14 @@ Languages and Tools🛠:
 <summary> Connect with me🤝: </summary>  
 
 <br/>
-
-
-
-<a href="https://github.com/Diegodossantos23">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/diego-dos-santos-rosa-b9180b176/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/whatsapp.png" />
-</a>
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-
-<br/>
-
+<p align="center">
+<br>
+<a href="https://www.facebook.com/profile.php?id=100037635695244"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/diegodossantosbjj/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/diego-dos-santos-rosa-b9180b176/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://mail.google.com/mail/u/0/?tab=wm&ogbl&pli=1#inbox?compose=new"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
 </details>
 
 ---
