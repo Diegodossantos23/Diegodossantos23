@@ -1,4 +1,4 @@
-[![ProfileBanner](https://drive.google.com/file/d/1W3WwEgbC-wWsNk5JHNOQAHUO0-Ih5USD/view?usp=sharing](https://Davekibh.github.io)
+
 
 ### About me🧑:
 Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade da Estácio, e cursando o intensivo de desenvolvimento Web Full-Stack da Labenu. Sou dedicado, flexivel, autodidata e adoro trabalhar em equipe.
