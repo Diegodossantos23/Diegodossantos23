@@ -16,8 +16,8 @@ Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cu
 
 <br/>
 
-- 🌱 I’m currently learning Full-Stack Web Development.
-- 👯 I’m looking to collaborate with Full-Stack Web Development.
+- 🌱 I’m currently learning Full-Stack Web Development on [Labenu](https://www.labenu.com.br/quem-somos) and learning Analisys Systems development [Universidade de Estácio](https://estacio.br/).
+- 👯 I’m to collaborate on [Labenu](https://github.com/future4code/Diego-Rosa)
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Full-Stack Web development.
 - 😄 Pronouns: He/Him
