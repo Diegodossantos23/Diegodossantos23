@@ -17,7 +17,7 @@ Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cu
 <br/>
 
 - 🌱 I’m currently learning intensive course Full-Stack Web Development on [Labenu](https://www.labenu.com.br/quem-somos) and learning Analisys Systems development on [Universidade de Estácio](https://estacio.br/).
-- 👯 I’m collaborating on [Labenu](https://github.com/future4code/Diego-Rosa)
+- 👯 I’m [collaborating](https://github.com/future4code/Diego-Rosa) on [Labenu](https://www.labenu.com.br/quem-somos)
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about: HTML,CSS, JavaScript, React.js,Node.js,TypeScript and Express.js.
 - 😄 Pronouns: He/Him
