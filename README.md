@@ -16,10 +16,10 @@ Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cu
 
 <br/>
 
-- 🌱 I’m currently learning Full-Stack Web Development on [Labenu](https://www.labenu.com.br/quem-somos) and learning Analisys Systems development [Universidade de Estácio](https://estacio.br/).
+- 🌱 I’m currently learning intensive course Full-Stack Web Development on [Labenu](https://www.labenu.com.br/quem-somos) and learning Analisys Systems development on [Universidade de Estácio](https://estacio.br/).
 - 👯 I’m to collaborate on [Labenu](https://github.com/future4code/Diego-Rosa)
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Full-Stack Web development.
+- 💬 Ask me about HTML,CSS, JavaScript, React.js,Node.js,TypeScript and Express.js.
 - 😄 Pronouns: He/Him
 - 📝 [Resume](https://drive.google.com/file/d/1411tN5eke-jNx7WryiEyBIjWHYm_MuKK/view?usp=sharing)
 - 📫 How to reach me **diegodossantos900@gmail.com**
