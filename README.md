@@ -21,7 +21,7 @@ Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cu
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Full-Stack Web development.
 - 😄 Pronouns: He/Him
-- 📝 [Resume](file:///home/diego/Downloads/My-CV.pdf)
+- 📝 [Resume](https://drive.google.com/file/d/1411tN5eke-jNx7WryiEyBIjWHYm_MuKK/view?usp=sharing)
 - 📫 How to reach me **diegodossantos900@gmail.com**
 
 
