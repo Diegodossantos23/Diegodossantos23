@@ -61,7 +61,7 @@ Languages and Tools🛠:
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>![DOWN BACKGROUND](https://github.com/Diegodossantos23/Diegodossantos23/blob/main/down_background.png)
+</div><img src="https://github.com/Diegodossantos23/Diegodossantos23/blob/main/down_background.png"/>
 
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
