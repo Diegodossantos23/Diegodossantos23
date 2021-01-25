@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Front-End Developer"</b></h4>
+  <h4 align="center"><b>Front-End Developer  👨‍💻</b></h4>
 </p>
 
 
