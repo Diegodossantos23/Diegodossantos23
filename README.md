@@ -56,13 +56,12 @@ Languages and Tools🛠:
 </details>
 
 ---
-![DOWN BACKGROUND](https://github.com/Diegodossantos23/Diegodossantos23/blob/main/down_background.png)
 
 <br>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div>![DOWN BACKGROUND](https://github.com/Diegodossantos23/Diegodossantos23/blob/main/down_background.png)
 
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
