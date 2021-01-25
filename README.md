@@ -16,11 +16,10 @@ Apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cu
 
 <br/>
 
-- 🔭 I’m currently working on Frontend Web Development.
 - 🌱 I’m currently learning Full-Stack Web Development.
 - 👯 I’m looking to collaborate with Full-Stack Web Development.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Fullstack Web development.
+- 💬 Ask me about Full-Stack Web development.
 - 😄 Pronouns: He/Him
 - 📝 Resume
 - 📫 How to reach me **diegodossantos900@gmail.com**
