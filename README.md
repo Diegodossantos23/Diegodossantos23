@@ -18,6 +18,7 @@ Adoro desafios e fazer coisas dificeis, porque o que vem facil, vai facil e o de
 
 Meu  propósito é de através da tecnologia, contribuir com a sociedade de maneira construtiva, proporcionando um maior acesso à informaçôes e as ferramentas que podem resultar na melhoria da qualidade de vida das pessoas.
 
+--
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
