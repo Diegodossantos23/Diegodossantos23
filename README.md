@@ -48,12 +48,14 @@ Hard-Skills🛠:
 
 ---
 <details>
-  <summary>Soft-Skilss</summary>
+  <summary>Soft-Skills</summary>
 <p align="center">
   
  TechLover, pro-atividade, sem medo de reportar problemas, Sem medo de sanar minhas duvidas, Inteligencia emocional, comunicação, autoconhecimento, autodidata, trabalho em em quipe, impatia,  resolução de problemas, flexibilidade/adaptabilidade
 </p>
 </details>
+
+---
 
 <details>
 <summary> Connect with me🤝: </summary>  
