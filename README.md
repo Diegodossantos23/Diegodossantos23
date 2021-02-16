@@ -6,7 +6,6 @@
 
 <p align="center">
   <h4 align="center"><b>Full Stack Developer  👨‍💻</b></h4>
-[Portifólio](https://www.behance.net/blackhorse7)
 </p>
 
 
