@@ -4,9 +4,9 @@
   <h1 align="center"><b>Hello World, I'm Diego 👋</b></h1>
 </p>
 
-<p>
+<p align="center">
   <h4 align="center"><b>Full Stack Developer  👨‍💻</b></h4>
-  <h5 align="center"><b>[Portifólio](https://www.behance.net/blackhorse7)</b></h5>
+[Portifólio](https://www.behance.net/blackhorse7)
 </p>
 
 
