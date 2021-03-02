@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h4 align="center"><b>Software Engineer 👨‍💻</b></h4>
+  <h4 align="center"><b>Software Developer 👨‍💻</b></h4>
 </p>
 
 
