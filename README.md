@@ -10,9 +10,7 @@
 
 
 ### About me 🧑:
-Hello Wolrd! Sou Atleta/competidor de Jiu-Jitsu faixa azul , apaixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade da Estácio, e cursando o intensivo de desenvolvimento Web Full-Stack da Labenu.
-
-Adoro desafios e fazer coisas dificeis, porque o que vem facil, vai facil e o desafio nos faz evoluir.
+Sou paixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade da Estácio, e cursando o intensivo de desenvolvimento Web Full-Stack da Labenu.
 
  Com base nos feedbacks que recebi de meus professores, meus colegas e mentores me descrevem como uma pessoa flexivel, dedicado, autodidata, bom trabalho em equipe.
 
