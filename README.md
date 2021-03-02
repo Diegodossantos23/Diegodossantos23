@@ -1,7 +1,7 @@
 
   ![BACKGROUND](https://github.com/Diegodossantos23/Diegodossantos23/blob/main/top_background.jpeg)
 <p>
-  <h1 align="center"><b>Hello World, I'm Diego 👋</b></h1>
+  <h1 align="center"><b>I'm Diego 👋</b></h1>
 </p>
 
 <p align="center">
@@ -79,7 +79,6 @@ Hard-Skills🛠:
 <br>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/Diegodossantos23/Diegodossantos23/blob/main/down-background.png"/>
 
 <!--[website]: -->
