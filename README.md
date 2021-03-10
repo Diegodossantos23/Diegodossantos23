@@ -28,7 +28,7 @@ Meu  propósito é de através da tecnologia, contribuir com a sociedade de mane
 - 💬 Ask me about: HTML,CSS, JavaScript, React.js,TypeScript.
 - 😄 Pronouns: He/Him
 - 📝 [Portifólio](https://www.behance.net/blackhorse7)
-- 📫 How to reach me **diegodossantos900@gmail.com**
+- 📫 How to reach me **diegodossantos900@outlook.com**
 
 
 
