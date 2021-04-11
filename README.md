@@ -17,7 +17,7 @@ Desenvolvedor de Software full stack envolvido no projeto da marca [CAEP](https:
 <br/>
 
 - 🌱 I’m currently learning intensive course Full-Stack Web Development on [Labenu](https://www.labenu.com.br/quem-somos) and learning Analysis Systems development on [Universidade de Estácio](https://estacio.br/).
-- 💻 Software Developer at [Synvia](https://www.synovahealth.com/)
+- 💻 Software Developer at [Synvia](https://synvia.com/)
 - 📝 [Portifólio](https://www.behance.net/blackhorse7)
 - 📫 How to reach me **diegodossantos900@outlook.com**
 <br/>
