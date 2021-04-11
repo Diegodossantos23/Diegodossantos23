@@ -5,33 +5,22 @@
 </p>
 
 <p align="center">
-  <h4 align="center"><b>Front-End Engineer 👨‍💻</b></h4>
+  <h4 align="center"><b>Software Developer 👨‍💻</b></h4>
 </p>
 
 
 ### About me 🧑:
-Sou paixonado por tecnologia e sede pelo aprendizado constante, atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade da Estácio, e cursando o intensivo de desenvolvimento Web Full-Stack da Labenu.
-
- Com base nos feedbacks que recebi de meus professores, meus colegas e mentores me descrevem como uma pessoa flexivel, dedicado, autodidata, bom trabalho em equipe.
-
-Meu  propósito é de através da tecnologia, contribuir com a sociedade de maneira construtiva, proporcionando um maior acesso à informaçôes e as ferramentas que podem resultar na melhoria da qualidade de vida das pessoas.
-
----
+Desenvolvedor de Software full stack envolvido no projeto da marca [CAEP](https://www.caeplab.com.br/) e [SYNOVA](https://www.synovahealth.com/).
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <br/>
 
 - 🌱 I’m currently learning intensive course Full-Stack Web Development on [Labenu](https://www.labenu.com.br/quem-somos) and learning Analysis Systems development on [Universidade de Estácio](https://estacio.br/).
-- 👯 I’m [collaborating](https://github.com/future4code/Diego-Rosa) on [Labenu](https://github.com/future4code/Diego-Rosa)
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about: HTML,CSS, JavaScript, React.js,TypeScript.
+- 👯 I’m collaborating) on [Synvia\=](https://www.synovahealth.com/)
 - 😄 Pronouns: He/Him
 - 📝 [Portifólio](https://www.behance.net/blackhorse7)
 - 📫 How to reach me **diegodossantos900@outlook.com**
-
-
-
 <br/>
 
 ---
