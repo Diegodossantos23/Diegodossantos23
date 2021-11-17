@@ -10,7 +10,7 @@
 
 
 ### About me 🧑:
-Desenvolvedor de Software full stack envolvido no projeto da marca [CAEP](https://www.caeplab.com.br/) e [SYNOVA](https://www.synovahealth.com/).
+Software development project involving the internal brand [CAEP](https://www.caeplab.com.br/) and [SYNOVA](https://www.synovahealth.com/), we are bringing out the best results, always thinking in our customers, building amazing software solutions to the Biotech industry/Pharma and Toxicological, using cutting edge technologies such as ReactNative, Angular8, Ionic4, Typescript, NodeJS, and MongoDB.
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
