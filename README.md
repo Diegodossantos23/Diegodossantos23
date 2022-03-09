@@ -16,7 +16,6 @@ Software development project involving the internal brand [CAEP](https://www.cae
 
 <br/>
 - 💻 Software Developer at [Synvia](https://synvia.com/)
-- 📝 [Portifólio](https://www.behance.net/blackhorse7)
 - 📫 How to reach me **diegodossantos900@outlook.com**
 <br/>
 
