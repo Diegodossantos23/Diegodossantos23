@@ -1,7 +1,7 @@
 
   ![BACKGROUND](https://github.com/Diegodossantos23/Diegodossantos23/blob/main/top_background.jpeg)
 <p>
-  <h1 align="center"><b>Diego dos Santos 👋</b></h1>
+  <h1 align="center"><b>Diego Rosa 👋</b></h1>
 </p>
 
 <p align="center">
