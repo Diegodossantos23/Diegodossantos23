@@ -10,8 +10,7 @@
 
 
 ### About me 🧑:
-Estou constantemente buscando aprimorar tanto minhas habilidades tecnicas assim como as comportamentais, meu propósito na minha carreira profissional como Desenvolvedor de Software é através da tecnologia contribuir com a sociedade de forma construtiva, melhorando a experiência do usuário e ferramentas que possam resultar na melhoria da qualidade de vida das pessoas.
-
+Eu acredito em soluções escaláveis, sustentáveis e criativas para problemas reais através da tecnologia. Meu foco está em gerenciamento e desenvolvimento de projetos de software para solução de problemas. Sou graduado em Análise e Desenvolvimento de Sistemas, em minha ultima experiência pude contribuir em dois projetos de desenvolvimento de software construindo soluções tecnológicas para a indústria de Biotecnologia/Farmacêutica, Toxicologia e atualmente trabalhando com varejo inteligente contribuindo no desenvolvimento de um WMS e um aplicativo para conferência de produtos no armazem.
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
